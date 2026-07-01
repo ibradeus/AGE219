@@ -1,0 +1,801 @@
+﻿Temparature,Humidity,Moisture,Soil Type,Crop Type
+26,52,38,Sandy,Maize
+29,52,45,Loamy,Sugarcane
+34,65,62,Black,Cotton
+32,62,34,Red,Tobacco
+28,54,46,Clayey,Paddy
+26,52,35,Sandy,Barley
+25,50,64,Red,Cotton
+33,64,50,Loamy,Wheat
+30,60,42,Sandy,Millets
+29,58,33,Black,Oil seeds
+27,54,28,Clayey,Pulses
+31,62,48,Sandy,Maize
+25,50,65,Loamy,Cotton
+32,62,41,Clayey,Paddy
+26,52,31,Red,Ground Nuts
+31,62,49,Black,Sugarcane
+33,64,34,Clayey,Pulses
+25,50,39,Sandy,Barley
+28,54,65,Black,Cotton
+29,58,52,Loamy,Wheat
+30,60,44,Sandy,Millets
+34,65,53,Loamy,Sugarcane
+35,68,33,Red,Tobacco
+28,54,37,Black,Millets
+33,64,39,Clayey,Paddy
+26,52,44,Sandy,Maize
+30,60,63,Red,Cotton
+32,62,30,Loamy,Sugarcane
+37,70,32,Black,Oil seeds
+26,52,36,Clayey,Pulses
+29,58,40,Red,Ground Nuts
+30,60,27,Loamy,Sugarcane
+34,65,38,Clayey,Paddy
+36,68,38,Sandy,Barley
+26,52,48,Loamy,Wheat
+28,54,35,Black,Millets
+30,60,61,Loamy,Cotton
+37,70,37,Clayey,Paddy
+25,50,26,Red,Ground Nuts
+29,58,34,Sandy,Millets
+27,54,30,Clayey,Pulses
+30,60,58,Loamy,Sugarcane
+32,62,34,Red,Tobacco
+34,65,60,Black,Sugarcane
+35,67,42,Sandy,Barley
+38,70,48,Loamy,Wheat
+26,52,32,Black,Oil seeds
+29,58,43,Clayey,Paddy
+30,60,29,Red,Ground Nuts
+33,64,51,Sandy,Maize
+34,65,31,Red,Tobacco
+36,68,33,Black,Oil seeds
+28,54,38,Clayey,Pulses
+30,60,47,Sandy,Barley
+31,62,63,Red,Cotton
+27,53,43,Black,Millets
+34,65,54,Loamy,Wheat
+29,58,37,Sandy,Millets
+25,50,56,Loamy,Sugarcane
+32,62,34,Red,Ground Nuts
+28,54,41,Clayey,Paddy
+30,60,49,Loamy,Wheat
+34,65,64,Black,Cotton
+28,54,47,Sandy,Barley
+27,53,35,Black,Oil seeds
+36,68,62,Red,Cotton
+34,65,57,Black,Sugarcane
+29,58,55,Loamy,Sugarcane
+25,50,40,Clayey,Pulses
+30,60,38,Sandy,Millets
+26,52,39,Clayey,Pulses
+31,62,32,Red,Tobacco
+34,65,48,Loamy,Wheat
+27,53,34,Black,Oil seeds
+33,64,31,Red,Ground Nuts
+29,58,42,Clayey,Paddy
+30,60,47,Sandy,Maize
+27,53,59,Loamy,Sugarcane
+26,52,36,Clayey,Pulses
+34,65,63,Red,Cotton
+28,54,43,Clayey,Paddy
+30,60,40,Sandy,Millets
+29,58,65,Black,Cotton
+26,52,59,Loamy,Sugarcane
+31,62,44,Sandy,Barley
+35,67,28,Clayey,Pulses
+29,58,30,Red,Tobacco
+27,53,30,Black,Millets
+36,68,50,Loamy,Wheat
+29,58,61,Loamy,Cotton
+30,60,26,Black,Oil seeds
+34,65,45,Clayey,Paddy
+36,68,41,Red,Ground Nuts
+28,54,25,Sandy,Maize
+25,50,32,Clayey,Pulses
+30,60,27,Red,Tobacco
+38,72,51,Loamy,Wheat
+36,60,43,Sandy,Millets
+29,58,57,Black,Sugarcane
+27.58,59.21,31.27,Loamy,Cotton
+27.45,66.38,50.14,Black,Millets
+27.25,63.62,40.35,Black,Wheat
+28.84,58.91,33.06,Clayey,Millets
+25.86,48.46,46.25,Red,Ground Nuts
+25.59,63.6,46.33,Clayey,Cotton
+29.17,68.19,30.65,Sandy,Oil seeds
+36.05,73.59,58.17,Red,Millets
+26.76,64.22,53.63,Sandy,Ground Nuts
+27.66,53.58,40.96,Red,Cotton
+28.27,52.88,43.3,Black,Wheat
+38.39,69.51,65.09,Clayey,Oil seeds
+28.74,56.8,54.07,Loamy,Cotton
+30.63,63.88,38.71,Loamy,Paddy
+26.02,52.46,31.12,Loamy,Barley
+34.71,64.94,52.62,Sandy,Oil seeds
+23.71,51.25,30.5,Black,Oil seeds
+30.63,61.45,23.18,Black,Maize
+23.63,52.62,31.03,Clayey,Sugarcane
+27.65,58.09,69.07,Clayey,Oil seeds
+31.19,60.94,30.51,Black,Paddy
+37.12,72.87,47.06,Sandy,Tobacco
+33.52,60.46,47.85,Black,Pulses
+29.44,59.34,55.51,Loamy,Sugarcane
+33.24,69.48,65.48,Clayey,Cotton
+20.85,53.18,43.77,Loamy,Tobacco
+38.42,73.97,50.41,Loamy,Sugarcane
+29.04,71.09,21.12,Sandy,Maize
+23.59,55.82,62.92,Red,Sugarcane
+38.56,73.46,30.62,Black,Pulses
+30.87,63.94,46.2,Sandy,Cotton
+25.83,51.1,59.57,Sandy,Maize
+34.51,63.92,70,Loamy,Sugarcane
+31.92,62.59,27.78,Sandy,Pulses
+28.43,58.72,43.9,Sandy,Sugarcane
+27.53,55.04,57.07,Sandy,Pulses
+24.53,67.4,48.49,Red,Paddy
+30.82,51.91,54.23,Red,Wheat
+32.53,59.45,20.16,Loamy,Cotton
+28.17,58.69,34.11,Sandy,Cotton
+29.25,54.52,41.4,Clayey,Paddy
+22.26,51.36,48.36,Loamy,Tobacco
+30.76,66.64,56.32,Red,Ground Nuts
+27.84,66.53,36.89,Loamy,Sugarcane
+29.21,64.21,54.95,Red,Wheat
+26.01,59.52,35.75,Loamy,Pulses
+29.5,55.42,51.17,Red,Cotton
+32.98,62.02,33.12,Red,Wheat
+24.24,59.04,50.07,Loamy,Barley
+33.54,59.28,52.09,Clayey,Wheat
+34.43,72.28,62.22,Clayey,Ground Nuts
+32.19,68.94,67.37,Sandy,Barley
+32.55,71.46,67.14,Clayey,Oil seeds
+28.38,52.02,43.83,Loamy,Wheat
+25.4,43.57,38.51,Red,Maize
+33.8,52.28,53.31,Clayey,Millets
+28.38,47.58,34.86,Black,Paddy
+28.37,59.8,35.35,Black,Oil seeds
+30.08,73.84,41.22,Sandy,Sugarcane
+34.95,64.93,62.63,Clayey,Wheat
+35.56,74.88,52.16,Clayey,Cotton
+24.05,52.76,58.9,Sandy,Oil seeds
+23.42,53.65,69.68,Sandy,Barley
+31.68,62.14,42.55,Black,Sugarcane
+31.03,69,49.46,Loamy,Maize
+31.78,44.27,45.07,Loamy,Maize
+22.3,60.64,40.78,Sandy,Ground Nuts
+26.39,52.62,22.27,Sandy,Cotton
+29.36,64.39,20,Red,Tobacco
+26.67,47.94,34.08,Black,Sugarcane
+26.75,56.87,20,Clayey,Barley
+30.64,65.77,32.86,Clayey,Sugarcane
+29.89,48.59,38,Clayey,Pulses
+28.61,62.22,41.53,Loamy,Ground Nuts
+37.09,63.72,47.99,Red,Sugarcane
+21.78,55.6,33.66,Loamy,Maize
+30.42,70.37,55.92,Red,Wheat
+35.39,52.28,42.97,Sandy,Pulses
+30.53,52.17,41.92,Black,Oil seeds
+28.09,56.62,36.14,Loamy,Ground Nuts
+22.95,55.86,31.58,Black,Paddy
+32.06,75.56,55.73,Sandy,Tobacco
+38.4,67.88,62.06,Clayey,Maize
+33.59,66.16,69.67,Sandy,Pulses
+26.47,62.91,46.87,Sandy,Ground Nuts
+31.56,58.25,29.12,Loamy,Oil seeds
+29.13,56.72,67.72,Clayey,Ground Nuts
+23.35,59.98,63.83,Black,Oil seeds
+26.75,58.1,39.27,Clayey,Maize
+30.42,48.76,42.28,Red,Millets
+24.9,51.02,31.9,Loamy,Ground Nuts
+27.31,57.3,22.41,Loamy,Wheat
+31.5,74.7,23.25,Clayey,Ground Nuts
+27.63,69.25,41.18,Loamy,Millets
+22.59,45.7,33.13,Black,Maize
+35.97,60.1,26.8,Black,Tobacco
+27.69,55.55,27.9,Red,Sugarcane
+24.27,52.43,62.34,Loamy,Millets
+30.42,50.01,26.27,Black,Ground Nuts
+31.52,44.64,42.86,Red,Barley
+30.64,57.57,46.45,Red,Wheat
+22.17,47.78,43.03,Clayey,Paddy
+36.5,65.85,42.33,Loamy,Maize
+35.13,65.69,37.76,Black,Maize
+24.82,53.75,47.97,Black,Ground Nuts
+31.24,55.88,37.05,Sandy,Oil seeds
+29.77,46.18,63.79,Loamy,Cotton
+25.86,46.65,32.67,Clayey,Oil seeds
+30.15,60.77,42.93,Clayey,Cotton
+29.46,59.4,49.1,Clayey,Ground Nuts
+29.37,64.45,64.66,Black,Cotton
+23.63,58.75,35.6,Red,Oil seeds
+32.45,60.24,55.92,Sandy,Millets
+37.34,63.39,25.36,Red,Paddy
+30.41,67.24,65.58,Loamy,Cotton
+31.9,55.45,59.87,Sandy,Barley
+35.85,52.79,54.13,Clayey,Cotton
+28.87,49.91,35.02,Red,Pulses
+26.33,50.2,45.34,Clayey,Oil seeds
+29.67,58.75,40.69,Sandy,Sugarcane
+32.2,50.72,39.63,Clayey,Ground Nuts
+29.24,62.15,51.65,Black,Millets
+34.15,71.16,41.7,Red,Paddy
+31.56,55.15,56.8,Red,Barley
+24.76,56.88,20,Clayey,Oil seeds
+34.15,63.96,47.64,Red,Barley
+30.7,57.71,38.36,Sandy,Wheat
+34.89,53.79,37.58,Red,Ground Nuts
+26.7,63.42,24.65,Sandy,Cotton
+23.75,61.43,52.94,Black,Ground Nuts
+25.73,52.9,46.14,Red,Cotton
+25.36,50.91,24.39,Loamy,Wheat
+36.35,61.89,65.38,Black,Sugarcane
+21.91,46.66,45.27,Black,Millets
+26.44,65.84,50.2,Clayey,Pulses
+28.93,50.28,20.33,Red,Wheat
+30.06,53.68,70,Sandy,Maize
+35.29,64.13,46.59,Clayey,Pulses
+24.61,63.9,70,Loamy,Pulses
+29.38,60.44,45.57,Clayey,Millets
+30.2,51.16,32.5,Red,Barley
+32.46,68.2,64.77,Sandy,Sugarcane
+24.26,53.19,67.73,Clayey,Oil seeds
+37.9,75.51,25.35,Clayey,Ground Nuts
+31.1,55.48,46.43,Sandy,Cotton
+31.75,62.4,34.97,Black,Wheat
+27.29,57.56,53.09,Black,Pulses
+26.71,55.89,69.87,Loamy,Paddy
+29.25,56.07,33.6,Black,Oil seeds
+29.73,58.67,29.64,Red,Barley
+31.62,57.88,42.77,Clayey,Oil seeds
+25.93,54.07,23.84,Loamy,Maize
+26.47,55.37,59.34,Sandy,Maize
+21.92,53,33.57,Black,Barley
+24.35,58.11,34.04,Clayey,Oil seeds
+29.55,45.99,50.06,Red,Sugarcane
+28.29,60.24,33.44,Black,Pulses
+31.31,73.26,70,Loamy,Pulses
+30.05,58.21,23.31,Loamy,Cotton
+31.27,62.18,32.06,Sandy,Paddy
+32.51,61.45,70,Loamy,Ground Nuts
+23.98,44.94,20,Sandy,Oil seeds
+30.28,69.29,53.16,Sandy,Tobacco
+28.02,54.85,55.71,Sandy,Sugarcane
+28.66,56.26,39.29,Black,Sugarcane
+30.85,70.39,29.35,Black,Millets
+24.51,62.55,65.83,Loamy,Pulses
+22.33,56.84,29.98,Black,Ground Nuts
+29.75,55.39,28.42,Sandy,Tobacco
+28.27,52.86,22.36,Clayey,Ground Nuts
+33.27,67.2,40.49,Loamy,Paddy
+38.53,70.2,28.94,Loamy,Millets
+25.2,60.02,69.92,Sandy,Oil seeds
+23.66,55.66,31.32,Red,Wheat
+35.01,71.58,39.2,Black,Wheat
+36.92,69.78,32.64,Clayey,Maize
+23.74,47.23,43.64,Red,Tobacco
+30.51,48.99,28.68,Black,Tobacco
+27.02,68.83,33.05,Black,Tobacco
+27.77,42.89,59.1,Red,Barley
+39.65,63.55,47.33,Red,Cotton
+37.27,64.08,36.28,Red,Barley
+27.93,64.17,62.13,Black,Pulses
+29.95,61.75,36.58,Black,Sugarcane
+24.97,59.24,47.46,Sandy,Paddy
+27.68,61.68,59.47,Clayey,Paddy
+23.82,47.74,30.62,Black,Cotton
+34.57,69.61,57.23,Clayey,Pulses
+35.1,70.14,56.12,Loamy,Pulses
+33.71,59.42,29.32,Black,Barley
+24.75,45.31,49.7,Clayey,Cotton
+37.36,59.64,53.7,Loamy,Millets
+32.22,56.29,48.76,Black,Maize
+32.35,48.81,46.33,Loamy,Paddy
+40,80,59.99,Clayey,Cotton
+25.85,62.32,48.82,Red,Cotton
+30.61,66.36,42.09,Red,Barley
+34.51,54.79,54.12,Loamy,Maize
+29.66,43.74,43.31,Red,Paddy
+31.75,46.82,37.35,Red,Maize
+25.43,68.65,39.28,Red,Oil seeds
+30.97,58.53,29.79,Loamy,Wheat
+28.58,71.66,46.04,Red,Oil seeds
+29.87,63.64,61.4,Black,Wheat
+25.09,54.56,34.08,Red,Maize
+29.76,45.13,30.91,Red,Cotton
+31.38,69.36,35.4,Black,Tobacco
+36.7,70.28,23.31,Sandy,Ground Nuts
+26.91,44.27,23.76,Loamy,Barley
+30.83,53.08,47.02,Black,Oil seeds
+31.98,55.89,57.6,Red,Barley
+30.46,48.84,33.31,Red,Paddy
+29.24,54.29,47.85,Clayey,Paddy
+31.38,67.84,59.74,Loamy,Maize
+29.08,54.19,61.72,Clayey,Maize
+40,60.8,50.41,Black,Cotton
+23.18,53.55,20,Black,Ground Nuts
+32.61,54.79,70,Black,Barley
+36.12,72.17,33.4,Sandy,Paddy
+23.88,57.05,35.25,Loamy,Barley
+30.78,64.7,35.01,Clayey,Pulses
+36.46,65.08,43.87,Red,Paddy
+40,77.61,29.53,Loamy,Sugarcane
+32,57.73,35.48,Black,Wheat
+32.69,69.21,22.19,Black,Sugarcane
+29.63,45.37,21.76,Black,Sugarcane
+34.22,56.39,49.89,Red,Pulses
+36.56,76.26,36.26,Sandy,Wheat
+37,62.94,55.83,Loamy,Pulses
+37.66,74.6,28.6,Black,Millets
+36.42,75.12,46.56,Sandy,Ground Nuts
+29.92,50.41,62.32,Clayey,Ground Nuts
+31.96,49.13,52.38,Loamy,Maize
+38.65,62.79,58.95,Black,Cotton
+24.94,50.42,55.75,Red,Tobacco
+26.11,52.09,44.94,Black,Pulses
+39.68,75.02,51.69,Clayey,Barley
+32.74,64.14,68.56,Red,Millets
+25.3,50.31,45.77,Loamy,Tobacco
+29.37,61.61,33,Loamy,Oil seeds
+35.12,61.28,35.3,Red,Sugarcane
+31.57,46.3,28.05,Red,Tobacco
+38,61.23,26.32,Black,Wheat
+36.29,71,56.12,Black,Barley
+32.76,61.99,68.62,Black,Pulses
+33.01,61.9,32.87,Sandy,Wheat
+27.09,64.13,38,Black,Paddy
+30.15,68.23,37.36,Sandy,Wheat
+31.12,54.41,55.18,Clayey,Oil seeds
+31.08,61.81,34.73,Red,Wheat
+34.99,65.23,27.62,Clayey,Maize
+28.29,46.16,41.47,Black,Millets
+37.61,61.11,36.72,Loamy,Barley
+36.02,69.03,54.45,Sandy,Barley
+28.58,41.09,30.84,Red,Tobacco
+24.6,52.29,30.92,Black,Tobacco
+29.87,56.39,37.84,Sandy,Cotton
+29.85,47.2,57.02,Sandy,Millets
+26.12,63.44,63.43,Loamy,Millets
+34.94,57.44,52.37,Sandy,Wheat
+31.59,63.18,56.9,Black,Paddy
+37.33,67.17,37.59,Loamy,Maize
+24.02,45.09,67.89,Loamy,Tobacco
+33.56,66.29,26.04,Clayey,Wheat
+30.78,50.3,52.95,Clayey,Barley
+32.39,66.19,63.37,Clayey,Ground Nuts
+31.26,67.75,26.57,Black,Barley
+38.04,69.01,42.8,Red,Ground Nuts
+32.73,62.66,34.5,Red,Paddy
+27.79,60.14,41.16,Clayey,Paddy
+32.24,55.75,45.85,Black,Pulses
+31.18,60.59,20.77,Black,Pulses
+34.04,65.18,55.33,Black,Ground Nuts
+28.92,49.12,20,Black,Pulses
+36.08,74.86,38.71,Red,Wheat
+32.57,62.47,37.05,Sandy,Millets
+32.53,51.27,44.71,Sandy,Ground Nuts
+25.19,60.71,52.06,Red,Paddy
+28.66,47.45,44.04,Loamy,Wheat
+24.59,58.22,64.12,Sandy,Paddy
+25.71,59.93,51.81,Clayey,Tobacco
+28.24,54.62,35.02,Clayey,Wheat
+33.95,61,45.29,Clayey,Maize
+33.88,59.02,35.32,Clayey,Sugarcane
+30.87,58.93,70,Clayey,Oil seeds
+33.25,69.66,51.62,Sandy,Maize
+30.25,72.59,57.4,Black,Pulses
+31.59,67.65,56.8,Sandy,Oil seeds
+37.68,62.61,54.72,Black,Ground Nuts
+30.23,70.15,26.2,Red,Oil seeds
+30.29,58.63,51.24,Loamy,Ground Nuts
+27.47,53.06,40,Red,Paddy
+29.05,52,53.16,Black,Cotton
+22.27,58.06,38.54,Black,Tobacco
+26.4,57.87,57.72,Sandy,Cotton
+24.38,52.09,25.67,Loamy,Sugarcane
+33.24,51.28,65.32,Black,Pulses
+27.41,52.54,41.48,Black,Barley
+32.64,77.53,39.18,Clayey,Maize
+27.61,71.93,41.84,Red,Barley
+36.71,76.2,24.17,Sandy,Barley
+31.72,71.9,41.1,Clayey,Oil seeds
+38.33,70.83,45.85,Loamy,Cotton
+31.36,44.29,43.74,Sandy,Pulses
+31.97,57.04,39.26,Loamy,Maize
+30.86,66.38,42.56,Clayey,Sugarcane
+29.81,63.42,20,Loamy,Millets
+30.18,68.42,36.95,Clayey,Barley
+25.23,62.86,38.43,Red,Cotton
+37.04,68.38,51.4,Red,Maize
+26.14,52.36,40.32,Clayey,Paddy
+25.71,49.13,33.26,Sandy,Sugarcane
+30.12,69.25,21.43,Loamy,Paddy
+27.34,63.01,48.83,Black,Cotton
+30.29,69.44,58.64,Clayey,Pulses
+33.67,68.27,57.75,Clayey,Millets
+34.7,66.76,69.2,Loamy,Sugarcane
+34.38,60.73,50.97,Red,Oil seeds
+33.48,62.18,48.6,Black,Wheat
+33.6,60.98,68.08,Clayey,Tobacco
+31.74,62.32,52.3,Loamy,Sugarcane
+27.11,49.05,43.91,Black,Oil seeds
+29.56,70.11,44.74,Sandy,Wheat
+33.71,58.93,43.88,Loamy,Barley
+21.93,44.5,63.49,Red,Maize
+33.53,60.05,37.18,Red,Maize
+25.31,51.61,33.05,Red,Ground Nuts
+31.78,65.4,52.23,Sandy,Ground Nuts
+34.68,58.89,27.43,Sandy,Pulses
+39.75,60.73,38.94,Clayey,Millets
+22.69,51.37,61.27,Sandy,Oil seeds
+24.06,40.2,34.24,Black,Wheat
+38.25,74.83,48.66,Clayey,Sugarcane
+40,64.51,51.07,Red,Millets
+35.73,71.25,45.65,Clayey,Millets
+31.33,52.44,48.45,Black,Maize
+32.64,71.49,45.45,Black,Maize
+24.83,51.23,46.97,Red,Millets
+30.57,73.76,66.01,Loamy,Oil seeds
+27.61,52.18,38.91,Black,Tobacco
+25.3,51.45,24.59,Sandy,Barley
+31.71,58.44,35.47,Loamy,Pulses
+25.28,55.82,32.12,Clayey,Barley
+29.97,58.25,31.86,Loamy,Sugarcane
+32.38,58.5,45.02,Red,Wheat
+30.69,59.44,51.07,Sandy,Sugarcane
+33.71,71.14,43.81,Clayey,Millets
+26.91,52.52,30.81,Black,Cotton
+29.32,51.48,40.11,Red,Tobacco
+25.99,55.37,65.56,Sandy,Wheat
+33.65,66.5,65.99,Black,Wheat
+29.23,55.19,29.27,Red,Wheat
+25.5,65.19,38.34,Loamy,Oil seeds
+26.92,56.83,44.88,Loamy,Wheat
+35.51,70.33,59.14,Loamy,Paddy
+27.1,61.29,41.14,Sandy,Tobacco
+32.66,55.25,20,Red,Paddy
+35.8,55.37,57.55,Clayey,Maize
+29.38,54.47,52.56,Sandy,Maize
+36.66,76.82,39.74,Sandy,Millets
+32.53,60.02,29.35,Clayey,Wheat
+32.66,74.93,33.56,Black,Pulses
+34.63,63.8,24.01,Black,Maize
+24.84,62.63,36.65,Black,Oil seeds
+29,44.56,33.96,Red,Millets
+35.26,53.82,24.93,Red,Ground Nuts
+33.42,55.5,64.41,Black,Paddy
+28.04,55.51,49.43,Sandy,Wheat
+34.9,61.86,35.47,Clayey,Millets
+22.34,53.62,38.61,Red,Wheat
+28.11,47.2,36.8,Clayey,Paddy
+34.35,66.79,51.52,Black,Wheat
+28.74,48.61,35.72,Red,Tobacco
+22.56,50.58,29.13,Loamy,Oil seeds
+26.95,50.63,43,Sandy,Barley
+26.39,54.79,46.15,Sandy,Wheat
+30.13,72.21,35.94,Red,Ground Nuts
+35.71,67.62,25.16,Red,Pulses
+28.88,60.85,28.57,Clayey,Barley
+27.05,44.74,56.64,Red,Sugarcane
+29.34,44.01,41.14,Loamy,Tobacco
+39.33,67.44,37.85,Loamy,Sugarcane
+28.53,59.01,60.57,Clayey,Ground Nuts
+23.12,58.63,37.49,Black,Cotton
+31.53,58.95,51.37,Clayey,Paddy
+33.55,60.65,58.59,Red,Wheat
+30.15,64.35,67.45,Black,Pulses
+39.81,63.65,63.69,Red,Tobacco
+34.51,52.14,70,Clayey,Sugarcane
+35.66,54.44,42.29,Loamy,Sugarcane
+25.65,62.92,28.49,Sandy,Barley
+28.51,44.09,28.38,Black,Ground Nuts
+30.09,54.43,60.02,Red,Maize
+22.27,61.81,43.11,Red,Paddy
+38.38,65.51,46.26,Black,Maize
+32.61,50.77,63.48,Red,Ground Nuts
+26.99,47.9,45.66,Red,Paddy
+29.77,63.41,50.3,Black,Millets
+28.27,59.38,45,Loamy,Ground Nuts
+33.5,53.07,46.85,Red,Cotton
+37.95,68.37,55.82,Loamy,Pulses
+25.06,64.02,38.39,Black,Ground Nuts
+26.79,62.91,25.01,Loamy,Sugarcane
+26.72,52.56,31.72,Sandy,Paddy
+22.39,61.19,37.56,Black,Millets
+30.98,72.26,70,Sandy,Wheat
+30.37,74.96,45.96,Sandy,Maize
+36.58,61.79,40.55,Loamy,Maize
+26.45,60.78,50.52,Sandy,Wheat
+25.6,52.6,54.46,Red,Maize
+35.57,72.13,33.41,Red,Millets
+33.06,60.37,69.48,Sandy,Millets
+29.39,53.28,40.12,Loamy,Pulses
+28.21,59.37,42.81,Red,Paddy
+35.57,60.63,45.71,Black,Sugarcane
+37.32,76.39,48.4,Loamy,Cotton
+40,56.27,40.77,Loamy,Millets
+39.82,70.94,30.3,Loamy,Pulses
+38.99,74.78,27.58,Black,Paddy
+27.9,58.51,31.93,Red,Millets
+33.88,68.15,42.03,Sandy,Sugarcane
+40,71.79,58.99,Black,Sugarcane
+30.18,53.72,36.61,Red,Barley
+32.53,56.27,29.85,Clayey,Pulses
+33.72,50.47,44.08,Black,Pulses
+31.86,51.97,62.52,Black,Tobacco
+34.28,52.14,44.07,Black,Tobacco
+25.94,60.8,62.34,Clayey,Ground Nuts
+26.63,56.66,45.46,Red,Pulses
+35.09,63.88,46.21,Loamy,Cotton
+32.66,59.08,54.63,Red,Millets
+34.76,67.48,24.8,Loamy,Tobacco
+31.21,56.6,34.03,Sandy,Wheat
+34.72,67.85,69.81,Loamy,Barley
+23.38,55.92,50.56,Clayey,Wheat
+30.14,55.49,45.37,Clayey,Oil seeds
+29.71,50.93,41.83,Sandy,Wheat
+30.88,51,46.08,Red,Millets
+31.28,68.41,27.47,Black,Oil seeds
+32.92,77.29,48.08,Clayey,Paddy
+25.87,69.73,28.7,Clayey,Wheat
+30.53,63.85,56.3,Sandy,Barley
+37.03,69.99,42.75,Clayey,Paddy
+37.38,70.59,66.29,Sandy,Maize
+28.44,55.23,33.64,Red,Ground Nuts
+24.57,49.59,48.59,Sandy,Ground Nuts
+25.23,48.23,21.3,Black,Maize
+30.98,60.86,33.37,Red,Oil seeds
+28.45,55.92,48.02,Black,Cotton
+22.21,43.72,21.74,Clayey,Oil seeds
+36.2,55.53,54.66,Clayey,Sugarcane
+32.48,64.01,50.17,Loamy,Tobacco
+29.67,60,70,Red,Tobacco
+30.62,59.17,45.5,Sandy,Ground Nuts
+29.51,55.64,28.32,Loamy,Tobacco
+29.64,54.26,30.97,Black,Cotton
+30.83,64.19,23.01,Clayey,Pulses
+34.15,50.64,39.17,Loamy,Millets
+32.54,52.1,29.86,Sandy,Paddy
+35.15,65.46,50.44,Red,Pulses
+32.88,70.34,29.01,Loamy,Ground Nuts
+32.26,57.08,42.58,Clayey,Ground Nuts
+28.94,60.34,31.18,Loamy,Millets
+24.61,43.14,27.28,Red,Oil seeds
+32.63,71.17,55.93,Loamy,Millets
+31.18,72.57,46.74,Loamy,Maize
+23.69,57.9,39.61,Sandy,Cotton
+32.48,53.65,28.91,Clayey,Tobacco
+28.7,53.21,40.31,Sandy,Ground Nuts
+32.8,71.66,44.08,Red,Oil seeds
+37.65,60.86,24.45,Black,Maize
+26.1,50.4,41.08,Black,Oil seeds
+31.22,74.54,61.36,Sandy,Maize
+36.78,69.9,38.86,Red,Ground Nuts
+38.75,58.17,52.93,Loamy,Maize
+29.13,47.06,44.06,Red,Pulses
+28.65,62.64,41.6,Loamy,Pulses
+20.54,40.79,56.58,Clayey,Cotton
+27.19,62.12,35.74,Red,Cotton
+29.74,53.77,40.06,Red,Tobacco
+33.98,67.67,62.06,Black,Oil seeds
+28.91,67.6,39.3,Red,Pulses
+26.09,50.03,60.84,Sandy,Millets
+29.22,54.96,70,Black,Ground Nuts
+27.68,66.84,28.69,Black,Oil seeds
+21.94,46.3,27.7,Loamy,Sugarcane
+32.27,54.7,59.44,Sandy,Ground Nuts
+29.59,47.26,67.15,Loamy,Ground Nuts
+38.97,61.93,48.53,Black,Tobacco
+40,63.37,45.26,Sandy,Maize
+32.81,73.39,41.77,Sandy,Pulses
+36.48,66.13,30.41,Black,Cotton
+31.25,67.15,42.57,Sandy,Tobacco
+24.83,57.76,31.75,Sandy,Ground Nuts
+29.72,53.18,42.19,Sandy,Cotton
+27.26,43.94,42.1,Loamy,Paddy
+34.34,55.85,27.98,Black,Wheat
+23.7,41.13,58.8,Sandy,Ground Nuts
+33.32,71.88,37.86,Loamy,Sugarcane
+27.34,55.87,43.75,Clayey,Pulses
+22.71,49.95,45.22,Loamy,Tobacco
+29.55,59.76,58.15,Clayey,Wheat
+33.39,53.49,50.08,Sandy,Tobacco
+31.64,68.77,39.39,Sandy,Ground Nuts
+23.18,46.72,29.53,Black,Paddy
+24.94,66.7,66.09,Sandy,Pulses
+21.74,44.09,59.39,Sandy,Barley
+30.28,63.74,54.26,Loamy,Pulses
+23.22,49.73,51.54,Clayey,Pulses
+29.69,47.64,46.87,Clayey,Ground Nuts
+35.79,55.43,70,Black,Maize
+38.68,77.89,35.76,Loamy,Maize
+34.07,60.31,40.04,Red,Barley
+29.16,66.79,59.72,Sandy,Ground Nuts
+36.5,69.77,62.08,Loamy,Ground Nuts
+27.05,63.35,58.77,Red,Paddy
+31.49,71.13,61.76,Black,Barley
+30.84,59.19,45.38,Loamy,Wheat
+34.3,52.7,60.28,Sandy,Wheat
+31.13,73.3,29.78,Loamy,Barley
+28.87,58.01,36.28,Sandy,Tobacco
+36.02,63.58,41.22,Red,Tobacco
+35.93,59.27,55.76,Sandy,Oil seeds
+32.15,54.75,62.62,Loamy,Cotton
+23.42,58.34,36.7,Clayey,Millets
+24.23,54.91,32.3,Loamy,Maize
+28.51,48.44,45.73,Black,Cotton
+32.06,55.34,56.8,Sandy,Paddy
+31.18,54.19,43.3,Loamy,Tobacco
+33.59,54.6,51.9,Loamy,Barley
+30.36,59.8,70,Red,Millets
+28.79,64.17,68.25,Sandy,Tobacco
+28.74,44.89,43.99,Black,Cotton
+32.33,48.88,31.39,Black,Sugarcane
+39.12,61.14,51.1,Red,Millets
+34.71,54.08,46.09,Loamy,Millets
+30.34,64.88,34.89,Sandy,Barley
+27.59,52.12,42.52,Red,Tobacco
+35.14,69.39,45.5,Black,Wheat
+29.61,55.37,42.37,Clayey,Barley
+27.8,61.15,38.19,Black,Tobacco
+39.34,73.55,37.74,Sandy,Barley
+25.49,58.9,27.75,Sandy,Maize
+30.35,62.68,46.39,Black,Cotton
+29.31,65.11,40.63,Black,Tobacco
+30.84,76.53,34,Loamy,Cotton
+34.51,54.23,48.09,Loamy,Sugarcane
+29.97,59.98,41.02,Loamy,Tobacco
+29.54,46.05,47.43,Clayey,Maize
+29.6,65.96,27.64,Sandy,Maize
+32.18,62.78,23.55,Loamy,Pulses
+32.29,62.31,33.23,Sandy,Tobacco
+36.35,69.02,43.17,Loamy,Sugarcane
+37.33,59.48,53.07,Clayey,Wheat
+38.06,52.11,41.53,Clayey,Ground Nuts
+29.52,68.99,56.83,Sandy,Paddy
+40,78.86,52.13,Clayey,Sugarcane
+22.07,51.67,51.97,Clayey,Tobacco
+30.67,50.16,40.76,Black,Cotton
+25.98,62.89,61.12,Red,Oil seeds
+29.25,53.85,33.95,Red,Maize
+26.51,60.56,35.77,Loamy,Barley
+26.7,52.31,61.77,Clayey,Sugarcane
+25.95,62.86,51.74,Clayey,Oil seeds
+24.2,60.2,34.14,Loamy,Oil seeds
+23,52.82,37.28,Clayey,Millets
+31.77,57.58,49.46,Sandy,Sugarcane
+30.35,73.19,41.73,Sandy,Ground Nuts
+32.72,56.31,41.59,Sandy,Paddy
+32.17,56.59,62.96,Clayey,Oil seeds
+29.6,58.17,40.56,Red,Millets
+29.06,62.14,45.05,Red,Ground Nuts
+25.43,50.72,42.78,Clayey,Sugarcane
+31.93,61.7,61,Loamy,Pulses
+38.76,72.35,28.4,Black,Pulses
+22.95,47.87,42.49,Red,Sugarcane
+35.14,69.77,31.06,Sandy,Ground Nuts
+22.81,48.89,28.47,Loamy,Maize
+38.07,62.7,66.49,Red,Maize
+24.17,62.74,42.08,Black,Wheat
+29.03,66.58,27.4,Loamy,Ground Nuts
+37.98,57.42,48.64,Loamy,Pulses
+24.2,63.32,30.41,Red,Sugarcane
+39.47,72.83,59.41,Sandy,Tobacco
+32.72,59.26,37.37,Loamy,Millets
+23.61,40.7,39.71,Clayey,Paddy
+24.04,65.32,45.42,Clayey,Ground Nuts
+26.11,65.75,70,Red,Tobacco
+32.02,53.18,50.78,Sandy,Cotton
+29.17,59.16,55.51,Loamy,Wheat
+28.74,54.8,58.08,Black,Millets
+28.05,53.77,30.81,Loamy,Pulses
+30.96,57.8,42.72,Red,Sugarcane
+32.12,70.24,29.28,Red,Barley
+31.52,56.11,29.79,Clayey,Pulses
+39.41,63.5,41.68,Black,Oil seeds
+24.4,59.68,29.94,Clayey,Paddy
+37.61,56.44,61.31,Sandy,Maize
+26.71,59.61,29.75,Sandy,Barley
+35.3,65.91,61.45,Black,Pulses
+26.25,48.11,47.36,Clayey,Oil seeds
+23.41,47.11,60.88,Sandy,Maize
+26.86,58.4,49.47,Loamy,Millets
+30.4,64.62,29.5,Clayey,Pulses
+31.84,63.65,43.05,Clayey,Paddy
+35.66,67.28,53.18,Loamy,Paddy
+32.88,53.21,20,Black,Paddy
+27.68,46.99,22.43,Black,Barley
+31.06,58.96,32.69,Sandy,Millets
+29.43,42.86,23.41,Clayey,Cotton
+33.89,55.98,45.78,Sandy,Millets
+37.59,73,62.01,Red,Ground Nuts
+27.06,58.24,46.67,Sandy,Sugarcane
+32.94,59.38,30.73,Black,Paddy
+28.39,51.88,59.74,Loamy,Oil seeds
+31.18,55.41,33.33,Black,Barley
+26.88,60.42,29.07,Black,Barley
+28.78,46.7,36.68,Clayey,Tobacco
+22.15,54.75,39.9,Clayey,Barley
+34.37,52.58,39.35,Red,Paddy
+38.93,72.2,68.8,Red,Tobacco
+33.86,61.51,60.88,Loamy,Sugarcane
+29.29,49.2,35.91,Red,Cotton
+26.65,61.13,36.81,Loamy,Cotton
+23.94,46.32,39.99,Black,Millets
+30.97,58,39.5,Sandy,Millets
+30.01,51.08,29.77,Black,Tobacco
+27,61.54,48.67,Sandy,Sugarcane
+23.87,50.93,44.6,Clayey,Pulses
+37.83,58.79,52.48,Red,Barley
+28,47.27,57.35,Clayey,Tobacco
+28.02,63.79,48.61,Loamy,Oil seeds
+29.13,67.17,44.42,Black,Wheat
+34.41,62.43,33.3,Loamy,Barley
+29.76,61.14,53.09,Black,Pulses
+25.61,56.5,60.49,Loamy,Ground Nuts
+22.49,46.82,30.38,Black,Tobacco
+29.13,46.65,36.41,Loamy,Ground Nuts
+31.29,60.08,42.87,Red,Tobacco
+38.61,69.3,41.21,Black,Paddy
+29.54,54.01,70,Loamy,Pulses
+34.72,64.79,24.84,Clayey,Maize
+33.47,61.96,52.46,Sandy,Pulses
+30.67,67.01,70,Loamy,Sugarcane
+23.84,40.88,64.6,Black,Barley
+35.5,64.73,50.91,Clayey,Pulses
+26.3,56.35,38.58,Loamy,Sugarcane
+21.44,43.3,36.7,Sandy,Cotton
+31.67,71.83,25.15,Sandy,Sugarcane
+34.02,65.9,36.28,Clayey,Wheat
+27.74,58.79,39.22,Black,Wheat
+34.47,62.06,31.47,Clayey,Pulses
+22.28,44.81,70,Clayey,Oil seeds
+32.67,66.69,70,Red,Sugarcane
+38.27,69.52,41.61,Black,Millets
+34.72,55.96,37.9,Sandy,Sugarcane
+24.93,55.08,70,Red,Paddy
+29.31,44.74,47.53,Sandy,Millets
+37.76,59.22,56.24,Red,Pulses
+27.61,57.05,25.26,Red,Ground Nuts
+24.83,54.72,32.76,Black,Oil seeds
+33.76,53.8,61.55,Black,Wheat
+40,60.45,33.52,Black,Cotton
+36.02,74.78,38.64,Loamy,Barley
+29.17,58.72,20,Clayey,Oil seeds
+29.35,51.42,70,Red,Sugarcane
+32.78,63.54,36.29,Red,Pulses
+33.16,56.99,39.99,Red,Pulses
+32.62,52.77,37.75,Red,Maize
+32.78,73.78,36.5,Sandy,Wheat
+22.5,43.53,24.16,Loamy,Sugarcane
+30.9,58.59,38.32,Black,Barley
+34.54,55.21,45.01,Sandy,Paddy
+21.41,53.24,26.72,Loamy,Ground Nuts
+29.97,69.39,25.39,Red,Pulses
+25.29,61.48,27.71,Red,Paddy
+32.78,68.98,42.07,Red,Maize
+27.38,50.06,24.55,Black,Pulses
+34.33,67.03,36.49,Red,Ground Nuts
+20.45,45.71,55.91,Red,Tobacco
+33.66,76.53,54.93,Black,Millets
+27.79,51.33,28.88,Loamy,Maize
+30.52,54.99,69.02,Loamy,Millets
+28.83,64.74,44.66,Red,Sugarcane
+31.78,66.32,62.44,Red,Paddy
+28.49,61.78,47.46,Sandy,Maize
+26.7,61.16,69.76,Black,Wheat
+23.59,48.13,28.61,Sandy,Sugarcane
+32.73,67.1,34.06,Loamy,Barley
+33.44,67.04,56.66,Loamy,Pulses
+27.3,58.19,21.84,Loamy,Paddy
+30.79,53.82,68.44,Loamy,Paddy
+28.67,55.3,38.91,Clayey,Ground Nuts
+26.88,59.5,33,Black,Barley
+25.28,48.16,60.97,Black,Paddy
+39.78,59.7,70,Sandy,Pulses
+25.07,48.14,38.76,Clayey,Barley
+28.53,58.99,66.34,Red,Millets
+23.38,59.24,45.99,Sandy,Paddy
+26.95,52.13,54.83,Sandy,Tobacco
+34.46,67.55,53.28,Black,Maize
